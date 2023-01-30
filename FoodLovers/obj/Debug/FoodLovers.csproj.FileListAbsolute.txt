@@ -1,0 +1,13 @@
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\bin\Debug\FoodLovers.exe.config
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\bin\Debug\FoodLovers.exe
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\bin\Debug\FoodLovers.pdb
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.csproj.AssemblyReference.cache
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.csproj.SuggestedBindingRedirects.cache
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.Form1.resources
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.Properties.Resources.resources
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.csproj.GenerateResource.cache
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.csproj.CoreCompileInputs.cache
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.exe
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.pdb
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.MainPageForm.resources
+C:\Users\tabis\OneDrive\Desktop\FoodLovers\FoodLovers\obj\Debug\FoodLovers.Branches.resources
